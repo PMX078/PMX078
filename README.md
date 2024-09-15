@@ -11,6 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/-HTML5-red)
 
-📊 GitHub Stats:
-![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puneet123&show_icons=true&theme=radical)
+
+![Puneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PMX078&show_icons=true&theme=radical)
 
