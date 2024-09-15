@@ -4,7 +4,7 @@
 
 🌱 I’m learning about backend development, data science, and blockchain.
 
-📫 How to reach me: [YourEmail@example.com](mailto:YourEmail@example.com)
+📫 How to reach me: puneetmalhotra7@proton.me
 
 💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-blue)
